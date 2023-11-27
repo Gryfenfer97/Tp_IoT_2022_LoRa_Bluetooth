@@ -1,22 +1,26 @@
 # Tp_IoT_2022_LoRa_Bluetooth
 
+Jamil Hajjar et Nathan Charpentier
+
 ## 1. Client :
- 
-### 1. Récupération d'un paquet Mqtt sur test.mosquitto.org :  nomAP/ipaddr
 
-### 2. Se connecter à une carte sur l'AP et faire une requete http donnant les valeurs nécessaire à LoRa.
+1. Récupération d'un paquet Mqtt sur test.mosquitto.org :  info/youpi
 
-### 3. Ecouter les données de LoRa.
+2. Se connecter à une carte sur l'AP et faire une requete http donnant les valeurs nécessaire à LoRa.
 
-## 2. Serveur :
+3. Ecouter les données de LoRa.
 
-### Faire le serveur servant les données au Client.
+4. Afficher les données
 
-## 3. Ensuite...
+~~## 2. Serveur :~~
 
-### 1. Ajouter une fonction permettant de switcher entre Serveur et Client
+~~### Faire le serveur servant les données au Client.~~
 
-### 2. Sur le serveur, échangez la partie LoRa par du bluetooth (ou BLE)
+~~## 3. Ensuite...~~
 
-### 3. Refaire la partie cliente pour répondre au bluetooth
+~~### 1. Ajouter une fonction permettant de switcher entre Serveur et Client~~
+
+~~### 2. Sur le serveur, échangez la partie LoRa par du bluetooth (ou BLE)~~
+
+~~### 3. Refaire la partie cliente pour répondre au bluetooth~~
 
